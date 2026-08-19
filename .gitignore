@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+tmp/
+__pycache__/
+.venv/
+venv/
+data/*.zip
+*.py[cod]
