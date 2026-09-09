@@ -1,0 +1,14 @@
+{
+  "selection_metric": "OOF CV RMSLE",
+  "best_variant": "Weighted blend",
+  "best_cv_rmsle": 1.3368916986299264,
+  "n_train_rows": 4459,
+  "n_test_rows": 49342,
+  "n_model_features": 609,
+  "variant": "Weighted blend",
+  "components": {
+    "ExtraTrees": 0.33369870802401785,
+    "RandomForest": 0.33360945839493483,
+    "LightGBM": 0.33269183358104726
+  }
+}
